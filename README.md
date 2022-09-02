@@ -1,5 +1,5 @@
-- Hi, I’m Evan
-- I’m interested in Data Science, object orientation techniques, and all things Python
-- I’m looking to collaborate on Data Science projects that can benefit our society
+# Evan Plumley
+- Here you will find repositories for Data Science/Analytics projects, Industrial Control System research, and artifacts of just having fun
+
 
 
